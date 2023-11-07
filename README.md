@@ -1,2 +1,2 @@
-# Algoritma-Analizi
+# Algoritma Analizi  ***Notlar***
 Algoritma Analizi
